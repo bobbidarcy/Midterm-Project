@@ -16,3 +16,18 @@ I study right outside of it.
 
 
 # Washington State University
+
+**My Academics Continued**
+
+![Administration Builidng](https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/WSU_Thompson_hall.jpg/440px-WSU_Thompson_hall.jpg)
+
+In Fall 2022, I will be transferring to Washington State University  
+and changing my major to _Management Information Systems_ as well as _Finance_.  
+I have always wanted to move away from Missouri and I felt that this  
+was my opportunity to do so.  
+
+
+I love the outdoors so I am exciting to be moving to a place with lots of wildlife.  
+Where I will be moving is part of The Palouse which is pictured below.
+![The Palouse](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Palouse_fields_from_Kamiak_Butte_00-08-23.jpg/899px-Palouse_fields_from_Kamiak_Butte_00-08-23.jpg)
+
