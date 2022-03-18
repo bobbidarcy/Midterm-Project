@@ -34,10 +34,12 @@ Where I will be moving is part of The Palouse which is pictured below.
 
 # My Interests
 
-Some of my interess and hobbies include:
+Some of my interests and hobbies include:
 * Yoga 
 * Reading
 * Spending time outdoors
+
+
 
 
 
