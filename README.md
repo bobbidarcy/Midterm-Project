@@ -31,20 +31,3 @@ I love the outdoors so I am exciting to be moving to a place with lots of wildli
 Where I will be moving is part of The Palouse which is pictured below.
 ![The Palouse](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Palouse_fields_from_Kamiak_Butte_00-08-23.jpg/899px-Palouse_fields_from_Kamiak_Butte_00-08-23.jpg)
 
-
-# My Interests
-
-Some of my interests and hobbies include:
-* Yoga 
-* Reading
-* Spending time outdoors
-
-
-
-
-
-<!DOCTYPE html>
-<html>
-      <body
-      
-</html>
