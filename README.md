@@ -1,35 +1,27 @@
-# Bobbi Darcy
+# Career Goals 
 
-These pages are designed to let you know  
-a little bit about me and my life!
+My longterm career goals aren't completely  
+mapped out yet, but I have an idea of what  
+I want to do in the future. 
 
-## My Academics
-
-### University of Missouri
-
-[University of Missouri](https://missouri.edu)   
-Currently I attend the University of Missouri.  
-I will be finishing my freshman year with 72 credits.  
-At Mizzou, I enjoy spending time studying in [_Ellis Library_](https://en.wikipedia.org/wiki/Ellis_Library),   
-Pictured below is the Memorial Union,  
-I walk past it every day and when the weather is nice,  
-I study right outside of it. 
-
-
-![Memorial Union](https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/MemorialUnionAtMU.jpg/480px-MemorialUnionAtMU.jpg)
-
-
-### Washington State University
-
-![Administration Builidng](https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/WSU_Thompson_hall.jpg/440px-WSU_Thompson_hall.jpg)
-
-In Fall 2022, I will be transferring to [Washington State University](https://wsu.edu)  
-and changing my major to _Management Information Systems_ as well as _Finance_.  
-I have always wanted to move away from Missouri and I felt that this  
-was my opportunity to do so.  
-
-
-I love the outdoors so I am exciting to be moving to a place with lots of wildlife.  
-Where I will be moving is part of The Palouse which is pictured below.
-![The Palouse](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Palouse_fields_from_Kamiak_Butte_00-08-23.jpg/899px-Palouse_fields_from_Kamiak_Butte_00-08-23.jpg)
-
+<!DOCTYPE html>
+<html>
+  <head>
+    <h2> Credit Analyst
+    </h2>
+<p> A credit analyst helps to determine   
+  the credit worthiness <br> of people and   
+  helps to evaluate potential credit risks. <br>
+  within a company. This is an interesting career
+  path that I am<br> considering taking. This interested me
+  when we began to evaluate<br> credit within the world.
+    </p>
+    
+ <head>
+   <h2> Data Analyst </h2>
+     <p2> A data analyst helps to inspect, cleanse,<br>
+    evaluate, and model data within a system which<br>
+    allows them to make informed conclusions as<br>
+    well as make informed decisions.
+</html> 
+    
