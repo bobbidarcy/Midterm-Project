@@ -1,7 +1,11 @@
 # Bobbi Darcy
 
-**My Academics**
+These pages are designed to let you know  
+a little bit about me and my life!
 
+## My Academics
+
+### University of Missouri
 
 [University of Missouri](https://missouri.edu)   
 Currently I attend the University of Missouri.  
@@ -15,9 +19,7 @@ I study right outside of it.
 ![Memorial Union](https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/MemorialUnionAtMU.jpg/480px-MemorialUnionAtMU.jpg)
 
 
-# Washington State University
-
-**My Academics Continued**
+### Washington State University
 
 ![Administration Builidng](https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/WSU_Thompson_hall.jpg/440px-WSU_Thompson_hall.jpg)
 
