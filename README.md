@@ -1,9 +1,4 @@
-# Bobbi Darcy
-
-These pages are designed to let you know  
-a little bit about me and my life!
-
-## My Academics
+# My Academics
 
 ### University of Missouri
 
