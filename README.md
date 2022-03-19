@@ -1,13 +1,32 @@
-# Bobbi Darcy
+## Special Interests 
+### Animals 
+Animals are so interesting  
+There are so many and they are  
+all unique. 
+This page is dedicated to some  
+animals that I find particularly  
+amazing. 
 
-These pages are designed to let you know  
-a little bit about me and my life!
+#### Favorite Dog
 
-## General Info
+**Rottweiler**  
+![Rottweiler](https://upload.wikimedia.org/wikipedia/commons/7/7a/Rottweiler3.jpg)  
 
-Full Name: **Bobbi Alexandra Darcy**  
-Birthday: **2/18/2003** _Age: 19_  
-Current Job: **Receptionist at MU Women's Center**  
-Pursuing Major(s): Finance and MIS 
+#### Favorite Animals 
+* Hippopotamus 
+* Flamingo  
+![Hippo](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Hippopotamus_in_San_Diego_Zoo.jpg/440px-Hippopotamus_in_San_Diego_Zoo.jpg) ![Flamingo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Greater_flamingo_galapagos.JPG/350px-Greater_flamingo_galapagos.JPG)
 
+## Travel 
+
+#### Favorite State
+
+**Colorado**   
+![Colorado](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Tenmile.JPG/440px-Tenmile.JPG) 
+
+#### Favorite Region 
+
+**Pacific Northwest** 
+
+![Pacific Northwest](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Cascades_panorama_from_the_upper_meadow_below_Park_Butte.jpg/440px-Cascades_panorama_from_the_upper_meadow_below_Park_Butte.jpg)
 
